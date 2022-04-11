@@ -58,3 +58,11 @@ pour coder, packager, réfléchir à des algos, tester de nouvelles libs,…
 Là, l'objectif primaire n'est pas de s'amuser en moins de 2h mais de prendre le temps de construire un truc utile.
 
 <!-- ### Sessions passées -->
+
+
+
+## Liens divers
+
+- [La chaîne twitch d'Aspyrine](https://www.twitch.tv/aspyrinepastilledecode)
+- [L'organisation sur github](https://github.com/PastilleAspyrine), où on colle tous les dépôts
+- [Le dépôt github de ce site](https://github.com/PastilleAspyrine/website)
